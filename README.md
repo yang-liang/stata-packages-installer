@@ -21,6 +21,7 @@ The script provided in this repository installs the following commonly used Stat
 - egenmore
 - estout
 - esttab
+- estwrite
 - eventstudyinteract
 - ftools
 - gtools
