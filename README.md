@@ -15,6 +15,7 @@ The script provided in this repository installs the following commonly used Stat
 - coefplot
 - countyfips
 - csdid
+- did_imputation
 - did_multiplegt
 - did2s
 - drdid
@@ -39,6 +40,7 @@ The script provided in this repository installs the following commonly used Stat
 - synth2
 - tuples
 - vcemway
+- winsor2
 - wooldid
 - wyoung
 
