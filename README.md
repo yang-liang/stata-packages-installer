@@ -29,6 +29,7 @@ The script provided in this repository installs the following commonly used Stat
 - maptile
 - spmap
 - ppmlhdfe
+- psacalc
 - ranktest
 - reghdfe
 - stackedev
