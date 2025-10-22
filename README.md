@@ -38,6 +38,7 @@ The script provided in this repository installs the following commonly used Stat
 - synth2
 - tuples
 - vcemway
+- winsor2
 - wooldid
 - wyoung
 
