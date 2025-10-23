@@ -38,6 +38,7 @@ The script provided in this repository installs the following commonly used Stat
 - synth
 - statastates
 - synth2
+- texdoc
 - tuples
 - vcemway
 - winsor2
