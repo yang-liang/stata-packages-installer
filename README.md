@@ -33,6 +33,7 @@ The script provided in this repository installs the following commonly used Stat
 - outreg2
 - ppmlhdfe
 - psacalc
+- rangestat
 - ranktest
 - reghdfe
 - stackedev

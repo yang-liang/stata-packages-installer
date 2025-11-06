@@ -26,6 +26,7 @@ foreach package in
 "outreg2" 
 "ppmlhdfe" 
 "psacalc" 
+"rangestat"
 "ranktest" 
 "reghdfe" 
 "spmap" 
@@ -44,6 +45,5 @@ foreach package in
 };
 ;
 #delimit cr;
-
 
 display "All packages installed successfully!"
