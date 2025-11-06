@@ -8,6 +8,7 @@ The script provided in this repository installs the following commonly used Stat
 
 - anovalator
 - asdoc
+- asreg
 - avar
 - bacondecomp
 - ssaggregate
@@ -33,17 +34,20 @@ The script provided in this repository installs the following commonly used Stat
 - outreg2
 - ppmlhdfe
 - psacalc
+- rangestat
 - ranktest
 - reghdfe
 - stackedev
 - synth
 - statastates
 - synth2
+- texdoc
 - tuples
 - vcemway
 - winsor2
 - wooldid
 - wyoung
+- numdate
 
 ## Usage
 
