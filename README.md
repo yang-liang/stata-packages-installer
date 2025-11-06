@@ -6,6 +6,7 @@ This repository provides a Stata script that automatically installs a list of co
 
 The script provided in this repository installs the following commonly used Stata packages:
 
+- anovalator
 - asdoc
 - asreg
 - avar

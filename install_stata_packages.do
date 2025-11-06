@@ -1,6 +1,7 @@
 * Stata installer to install commonly used Stata packages
 #delimit;
 foreach package in 
+"anovalator"
 "asdoc" 
 "asreg" 
 "avar" 
