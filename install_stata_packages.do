@@ -43,6 +43,7 @@ foreach package in
     display "Installed package: `package'";
 };
 ;
-delimit cr;
+#delimit cr;
+
 
 display "All packages installed successfully!"
