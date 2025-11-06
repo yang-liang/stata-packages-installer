@@ -46,6 +46,7 @@ The script provided in this repository installs the following commonly used Stat
 - winsor2
 - wooldid
 - wyoung
+- numdate
 
 ## Usage
 
