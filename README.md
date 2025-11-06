@@ -6,6 +6,7 @@ This repository contains teaching materials for ECON 640 (Graduate Econometrics)
 
 - **homework-solutions/**: Contains solutions to homework assignments
 - **lecture-notes/**: Contains lecture notes and course materials
+- **colab/**: Contains codes for teamwork
 
 ## Course Information
 
